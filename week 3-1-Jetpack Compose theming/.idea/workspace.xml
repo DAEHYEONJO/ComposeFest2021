@@ -10,14 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92333064-924c-4707-ac20-7f66e64c0060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/theme/Shape.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/theme/Typography.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/Home.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/Home.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
